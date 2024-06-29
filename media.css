@@ -1,0 +1,11 @@
+@media screen and (max-width:1000px) {
+    .one{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:550px){
+    .about-info{
+        flex-direction: column;
+    }
+}
